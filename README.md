@@ -15,7 +15,7 @@
 <br>I don't know exactly what the reason is - probably the cost of rendering or my code.
 <br>For most applications it is sufficient, otherwise for example only every tenth point could be drawn.
 <br>
-<br>There is no serious slowdown in the iterations using the Scottplot signal , even at 50000 points.
+<br>There is no serious slowdown in the iterations using Scottplot signal below, even at 50000 points.
 <br>Live zooming is also very powerful.
 <br>As far as I know, it is suitable for ascending X values, not for an X/Y diagram where the X values are uneven.
 <br>
