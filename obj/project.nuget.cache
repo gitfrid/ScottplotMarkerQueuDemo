@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIHxjxDrdyv3UUwCAQDH9o4O95jG8HVNJJ8/eN17gAxSI9cVvy37RMTO0ORk3j0n8EHh2MA5lU5yoB2IwZFAkg==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\ScottplotMarkerQueuDemo\\WinForms Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adm\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\adm\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\adm\\.nuget\\packages\\scottplot\\4.1.70\\scottplot.4.1.70.nupkg.sha512",
+    "C:\\Users\\adm\\.nuget\\packages\\scottplot.winforms\\4.1.70\\scottplot.winforms.4.1.70.nupkg.sha512",
+    "C:\\Users\\adm\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\adm\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\adm\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": []
+}
